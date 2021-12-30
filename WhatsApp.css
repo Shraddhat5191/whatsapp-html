@@ -1,0 +1,233 @@
+img{
+    height: 560px;
+    width: 300px;
+    margin-left: 20px;
+}
+.img{
+    background-color: #128c7e;
+}
+
+.text{
+    text-align: right;
+    position: relative;
+    top: 7%;
+}
+
+.text1{
+    text-align: center;
+    position: relative;
+    left:9%;
+    margin-top: 15% ;
+}
+/* nav{
+    position: fixed; */
+/* } */
+
+.text3{
+    text-align: center;
+    position: relative;
+    left: 7%;
+    top: 3%;
+
+}
+
+.m2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    /* position: fixed; */
+    
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.imgnav{
+    height: 40px;
+    width: 8%;
+}
+
+nav{
+    height: 90px;
+    width: 100%;
+    background-color:#128c7e;
+    /* position: fixed; */
+    margin-bottom: 20px;
+}
+
+.web{
+    display: flex;
+    margin-left: auto;
+    margin-right: 60px;
+}
+
+.whatapp{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+
+}
+
+.m1{
+    margin-left: 150px;
+    margin-top: 1%;
+    font-size: 15px;
+    color: white;
+
+    bottom: 14px;margin-left: 104px;
+    /* position: fixed; */
+}
+
+
+.whatsapp2{
+    margin-right: 20px;
+    justify-content: space-around;
+}
+
+.div{
+    display: flex;
+}
+
+.maindiv{
+    display: flex;
+    height: 842px;
+    width: 39%;
+    background-color:#D8E8Ea;
+    text-align: center;
+    margin-left: 195px;
+    margin-top: 3%;
+}
+
+.subdiv2{
+    text-align: center;
+    margin-left: 50px;
+    width: 39%;
+    height: 842px;
+    background-color: #E7F0E4;
+    margin-top: 3%;
+
+    
+}
+
+
+
+.tab{
+    display: flex;
+}
+
+.img1{
+    width:370px;
+    height: 400px;
+    margin-left: 17%;
+    margin-top: 22%;
+}
+.footar{
+    height: 350px;
+    width: 100%;
+    background-color: #273443;
+    margin-top: 5%;
+    justify-content: space-evenly;
+}
+.footar1{
+    display: flex;
+}
+.effect{
+    height: 350px;
+    width: 350px;
+    margin-top: 9%;
+    margin-left: 180px;
+    background-color: turquoise;
+    border-radius: 50%;
+}
+.emoji{
+    border:2%;
+    width: 200px;
+    /* margin-top: 10%; */
+    height: 16%;
+    text-align: center;
+    position: relative;
+    left: 21%;
+    top:40%;
+    /* align-items: center; */
+    background-color: whitesmoke;
+    border-bottom-left-radius: 20px;
+    border-radius:18px;
+}
+.page{
+    display: flex;
+    color: blanchedalmond;
+    text-align: center;
+    margin-left: 380px;
+    margin-top: 1%;
+    
+}
+.p2{
+    margin-left: 810px;
+}
+
+
+.h1footar{
+    color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+
+    
+}
+.h1foo{
+    margin: 50px;
+    width: 122px;
+    height: 122px;
+    justify-content: space-evenly;
+    margin-right:120px ;
+    /* text-align: center; */
+
+    
+
+}
+.h3{
+    display: flex;
+    background-color: blanchedalmond;
+    border:25px blue;
+    margin: 12px;
+    width: 122px;
+    height: 122px;
+
+}
+.foot{
+    display: flex;
+    height: 90px;
+    width: 100%;
+    color: whitesmoke;
+    background-color: #1c1e21;;
+    text-align: centar;
+}
+.botton{
+    margin-top:3% ;
+    height: 57px;
+    width: 12%; 
+    margin-left: 830px;
+    border-radius: 25px;
+    text-align: center;
+    /* font-size: medium; */
+    color:turquoise;
+    border:2px solid turquoise;
+}
+.color{
+    color: turquoise;
+}
+.WhatsApp1{
+    margin-right: 80px;
+    margin-top: 4%;
+}
+.fixexd{
+    text-align: center;
+}
+
+
+ 
+
+
